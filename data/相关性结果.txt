@@ -1,0 +1,6 @@
+皮尔逊：
+data4 data12 0.5
+
+斯皮尔曼：
+data2 data20 0.55
+data5 data9 0.49
